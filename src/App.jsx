@@ -1,5 +1,6 @@
 import React from "react";
 import Main from "./components/main";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
@@ -8,7 +9,8 @@ const App = () => {
       <div>Code Rabbit Testing</div>
       <Main />
       <h1>hello world</h1>
-     
+     <Navbar/>
+     <Navbar/>
       <p></p>
     </>
   );
