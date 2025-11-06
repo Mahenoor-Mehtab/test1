@@ -1,6 +1,6 @@
 import React from "react";
 import Main from "./components/main";
-import Nav from "./components/Nav";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
@@ -9,7 +9,8 @@ const App = () => {
       <div>Code Rabbit Testing</div>
 
       <h1>hello world</h1>
-    
+     <Navbar/>
+     <Navbar/>
       <p></p>
     </>
   );
