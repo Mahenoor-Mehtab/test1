@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 const App = () => {
   return (
     <>
+    <h2>changes done in themeContext</h2>
     <h1>Helllo</h1>
       <div>Code Rabbit Testing</div>
 
